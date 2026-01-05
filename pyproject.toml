@@ -154,7 +154,7 @@ dependencies = [
     "swebench>=3.0.4",
 
     # LM Eval
-    "lm-eval[vllm]"
+    "lm-eval[vllm]>=0.4.9.1,<0.4.10"
 ]
 
 [project.urls]
